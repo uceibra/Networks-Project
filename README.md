@@ -1,6 +1,6 @@
 # Networks-Project (Maja & Diana)
 # 1) run the API
-With the Webscrapping API (human) we can construct 16 csv files with the information on the targets of our 16 proteins (we found on BioGrid).
+With the "Webscrapping.ipynb" API (human) in jupyter notebook we can construct 16 csv files with the information on the targets of our 16 proteins (we found on BioGrid).
 # 2) run the code with the library
 The code is written in the final code - pythomedicine project jupyther notebook, and
 the library of additional fuctions  for the code can be found in Networks_functions. 
