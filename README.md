@@ -1,4 +1,7 @@
 # Networks-Project (Maja & Diana)
+
+# The final output is in the final code jupyter notebook, below is procedure how to run it
+
 # 1) run the API with the "Original Dataset.xls"
 With the "Webscrapping.ipynb" API (human) in jupyter notebook we can construct 16 csv files with the information on the targets of our 16 proteins (we found on BioGrid).
 # 2) run the final code with the library
