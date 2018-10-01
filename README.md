@@ -14,4 +14,4 @@ The code uses  additional features that can be found in "Finalised-knowledge-gra
 Results were exported, and can be found in "Features.xlsx".
 
 # DISSERTATION(MAJA)
-In addition to mine and Diana's work I uploaaded two files (one is the edited phytone code for the network creation and the other is the excel part for the validation work). I kept our work too if someone whants to refer to it.
+In addition to mine and Diana's work I uploaaded two files (one is the edited phytone code for the network creation  - Dissertation_Phytomedicine_Project_Maja (final code - Phyton) and the other is the excel part for the validation work - Dissertation_Phytomedicine_Project_Maja-Excel). I kept our work too if someone whants to refer to it.
